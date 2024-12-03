@@ -10,10 +10,8 @@
 4. Do a "pip list" on terminal to make sure you have local packages installed.
 
 
-dataiseverythingps
-felYSY1rMACiB0Yg
 
-mongodb+srv://dataiseverythingps:felYSY1rMACiB0Yg@cluster0.zbd3c.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://dataiseverythingps:<pass>@cluster0.zbd3c.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 
 ----------------------------------------------- MongoDB Setup -----------------------------------------------
